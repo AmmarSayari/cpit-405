@@ -1,0 +1,50 @@
+/*Ammar Sayari 1940335 */
+
+.image-preview img {
+
+    width: 333px;
+    height: auto;
+
+    border-top: 30px solid skyblue;
+    border-right: 30px solid lightpink;
+    border-bottom: 30px solid lightgreen;
+    border-left: 30px solid #ffefd5;
+
+  }
+  
+  #header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 33px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 33px;
+  }
+  
+  .myclass1 {
+    color: #FF3333;
+  }
+  
+  .myclass2 {
+    color: #33FF33;
+  }
+  
+  .myclass3 {
+    color: #3333FF;
+  }
+  
+  .myclass4 {
+    color: #FFA999;
+    font-style: italic;
+  }
+
+  #header :hover {
+    color: #900090;
+  }
+
+  p:hover .myclass4  {
+    color: aquamarine;
+  }
+
+
+  
+  
